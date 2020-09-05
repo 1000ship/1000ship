@@ -1,4 +1,5 @@
-<img src='https://github.com/1000ship/1000ship/blob/master/background-image.jpg'/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjstjdgur123)](https://solved.ac/cjstjdgur123)&nbsp;&nbsp;![1000ship's github stats](https://github-readme-stats.vercel.app/api?username=1000ship&show_icons=true)
 
 <!--
 **1000ship/1000ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
