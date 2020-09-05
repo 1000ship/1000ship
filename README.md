@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src='./background-image.jpg'/>
 
 <!--
 **1000ship/1000ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
