@@ -1,17 +1,48 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjstjdgur123)](https://solved.ac/cjstjdgur123)&nbsp;&nbsp;![1000ship's github stats](https://github-readme-stats.vercel.app/api?username=1000ship&show_icons=true)
 
-<!--
-**1000ship/1000ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Usually</h2>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+    alt="javascript" width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+    alt="typescript" width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
+    height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40"
+    height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40"
+    height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="react" width="40"
+    height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40"
+    height="40" /></span>
 
-Here are some ideas to get you started:
+<h2>Sometimes</h2>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
+    width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"
+    alt="express" width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40"
+    height="40" /></span>
+<span><img
+    src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="amazonwebservices" width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
+    width="40" height="40" /></span>
+<span><img src="https://framework7.io/kitchen-sink/core/img/f7-icon.png" alt="framework7" width="40" height="40" /></span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Also used</h2>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails"
+    width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40"
+    height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android"
+    width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="40"
+    height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg"
+    alt="bootstrap" width="40" height="40" /></span>
+
+<h3>Legacy,,</h3>
+<span><img src="https://www.shareicon.net/data/128x128/2015/08/27/91627_logo_512x512.png" alt="flash" width="40"
+  height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="php" width="40"
+    height="40" /></span>
