@@ -30,7 +30,7 @@
 
 
 <h2>Now digging</h2>
-<span><img src="https://graphql.org/img/logo.svg" alt="github" width="40" height="40" /></span>
+<span><img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
     alt="typescript" width="40" height="40" /></span>
 
