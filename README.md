@@ -2,8 +2,6 @@
 <h2>Usually</h2>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
     alt="javascript" width="40" height="40" /></span>
-<span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-    alt="typescript" width="40" height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
     height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40"
@@ -14,6 +12,7 @@
     height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="github" width="40"
     height="40" /></span>
+
 
 <h2>Sometimes</h2>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"
@@ -28,6 +27,13 @@
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
     width="40" height="40" /></span>
 <span><img src="https://framework7.io/kitchen-sink/core/img/f7-icon.png" alt="framework7" width="40" height="40" /></span>
+
+
+<h2>Now digging</h2>
+<span><img src="https://graphql.org/img/logo.svg" alt="github" width="40" height="40" /></span>
+<span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+    alt="typescript" width="40" height="40" /></span>
+
 
 <h2>Also used</h2>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails"
