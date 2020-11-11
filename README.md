@@ -33,6 +33,8 @@
 <span><img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40" /></span>
 <span><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
     alt="typescript" width="40" height="40" /></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/400px-Elasticsearch_logo.svg.png"
+    alt="elasticsearch" height="40" /></span>
 
 
 <h2>Also used</h2>
