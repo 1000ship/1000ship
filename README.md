@@ -6,7 +6,7 @@
 <h4>🏗 framework <small>(frequency: asc)</small></h4>
 <p>react | expo | rails</p>
 
-<h2>I'll can do this well, too</h2>
+<h2>I'll can do this well</h2>
 
 <h4>💡 interest</h4>
 <p>nestjs | typescript</p>
