@@ -9,7 +9,7 @@
 <h2>I'll can do this well</h2>
 
 <h4>💡 interest</h4>
-<p>nestjs | typescript</p>
+<p>nestjs | typescript | graphql</p>
 
 <h4>🧪 in_laboratory</h4>
 <p>elasticsearch | spring | kafka | docker | k8s</p>
