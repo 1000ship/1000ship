@@ -6,7 +6,7 @@
 <h4>🏗 development <small>(frequency: asc)</small></h4>
 <p>react | expo | rails | nestjs</p>
 
-<h4>☁️ Cloud computing</h4>
+<h4>☁️ cloud_computing</h4>
 <p>kubernetes | docker</p>
 
 <h2>I'll can do this well</h2>
