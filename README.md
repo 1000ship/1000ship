@@ -13,6 +13,3 @@
 
 <h4>💡 interest</h4>
 <p>graphql</p>
-
-<h4>🧪 in_laboratory</h4>
-<p>elasticsearch | spring_boot</p>
