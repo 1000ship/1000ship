@@ -12,4 +12,4 @@
 <h2>I'll can do this well</h2>
 
 <h4>💡 interest</h4>
-<p>webgl | tailwind | graphql</p>
+<p>webgl | tailwind | next</p>
