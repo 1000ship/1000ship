@@ -15,6 +15,8 @@
 <p>webgl | tailwind | storybook</p>
 
 <h2>I'm gonna be digital nomad</h2>
-<p>Jeju Pohang🇰🇷 | Perth🇦🇺 | Texas🇺🇸 | Toronto🇨🇦 | Chiangmai🇹🇭 | Fukuoka Sapporo Okinawa🇯🇵 | Taichung Kaohsiung🇹🇼</p>
 
-> Anyone wanna be with me?
+<h4>🌏 planning_to</h4>
+<p>jeju pohang🇰🇷 | perth🇦🇺 | texas🇺🇸 | toronto🇨🇦 | chiangmai🇹🇭 | fukuoka sapporo okinawa🇯🇵 | taichung kaohsiung🇹🇼</p>
+
+> After COVID-19, anyone wanna be with me?
