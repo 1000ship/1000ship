@@ -14,7 +14,7 @@
 <h4>💡 interest</h4>
 <p>webgl | tailwind | storybook</p>
 
-<h2>✈️ I'm gonna be digital nomad</h2>
+<h2>I'm gonna be digital nomad</h2>
 <p>Jeju Pohang🇰🇷 | Perth🇦🇺 | Texas🇺🇸 | Toronto🇨🇦 | Chiangmai🇹🇭 | Fukuoka Sapporo Okinawa🇯🇵 | Taichung Kaohsiung🇹🇼</p>
 
 > Anyone wanna be with me?
