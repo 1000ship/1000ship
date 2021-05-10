@@ -10,9 +10,9 @@ kubernetes | docker
 #### 💡 interest
 webgl | tailwind | storybook
 ## I'm gonna be digital nomad
-#### 🌏 planning_to
+#### planning_to
 - texas 🇺🇸, 2021 Oct. ~ 2022 Jan.
-#### 
+#### wanna_go
 - jeju | pohang 🇰🇷
 - perth 🇦🇺
 - toronto 🇨🇦
