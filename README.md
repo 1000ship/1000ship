@@ -1,14 +1,15 @@
 ## I can do this well
 #### 💬 language (frequency: asc)
-typescript | python | ruby | c
+typescript | ruby | python | c
 #### 🏗 development (frequency: asc)
-react | expo | rails | nestjs | nextjs
-#### 📦 distributed_computing
+react | nextjs | rails | expo | nestjs
+#### 📦 infra
 kubernetes | docker
 
 ## I'll can do this well
 #### 💡 interest
-webgl | tailwind | storybook
+storybook
+
 ## I'm gonna be digital nomad
 #### planning_to
 - texas 🇺🇸, 2021 Oct. ~ 2022 Jan.
