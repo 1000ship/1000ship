@@ -1,16 +1,30 @@
-### Hi there 👋
+## Most using nowadays
+#### 💬 language (frequency: asc)
+typescript | python | kotlin
+#### 🏗 development (frequency: asc)
+reactjs | nextjs | strapi | spring_boot
+#### 📦 tool
+kubernetes | docker | aws | graphql
 
-<!--
-**1000ship/1000ship** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Try to use nowadays
+#### 💡 interest
+cloudflare
 
-Here are some ideas to get you started:
+## I'm currently digital nomad
+#### visited
+- united_states 🇺🇸, 2021 Oct. ~ 2022 Jan.
+  - austin, texas
+  - san antonio, texas
+  - brownsvile, texas
+  - st. bonifacius, minnesota
+  - los angeles, california
+- seoul, korea 🇰🇷, 2022 Feb. ~ Mar.
+- [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### debating
+- jeju | pohang | daegu 🇰🇷
+- perth 🇦🇺
+- toronto 🇨🇦
+- chiangmai 🇹🇭
+- fukuoka | sapporo | okinawa 🇯🇵
+- taichung | kaohsiung 🇹🇼
