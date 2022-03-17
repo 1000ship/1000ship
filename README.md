@@ -8,7 +8,7 @@ kubernetes | docker | aws | graphql
 
 ## Try to use nowadays
 #### 💡 interest
-cloudflare
+cloudflare | serverless
 
 ## I'm currently digital nomad
 #### visited
