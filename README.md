@@ -1,14 +1,10 @@
 ## Most using nowadays
 #### 💬 language (frequency: asc)
-typescript | python | kotlin
+typescript | kotlin | python
 #### 🏗 development (frequency: asc)
-reactjs | nextjs | strapi | spring_boot
+nextjs | spring_boot | serverless | strapi
 #### 📦 tool
-kubernetes | docker | aws | graphql
-
-## Try to use nowadays
-#### 💡 interest
-cloudflare | serverless
+aws | docker | graphql
 
 ## I'm currently digital nomad
 #### visited
@@ -18,13 +14,8 @@ cloudflare | serverless
   - brownsvile, texas
   - st. bonifacius, minnesota
   - los angeles, california
-- seoul, korea 🇰🇷, 2022 Feb. ~ Mar.
+- korea 🇰🇷, 2022 Feb. ~ Aug.
+  - seoul
+  - jinju
+  - daegu
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
-
-#### debating
-- jeju | pohang | daegu 🇰🇷
-- perth 🇦🇺
-- toronto 🇨🇦
-- chiangmai 🇹🇭
-- fukuoka | sapporo | okinawa 🇯🇵
-- taichung | kaohsiung 🇹🇼
