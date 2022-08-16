@@ -20,3 +20,7 @@ aws | docker | graphql
   - daegu
 - guam 🇬🇺, 2022 May
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
+
+
+### TMI
+- [Why my nickname is 1000ship?](why-my-nickname-is-1000ship.md)
