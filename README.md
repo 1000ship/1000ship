@@ -1,9 +1,9 @@
 ## Most using nowadays
-#### 💬 language (frequency: asc)
+#### 💬 language (frequency: desc)
 typescript | kotlin | python
-#### 🏗 development (frequency: asc)
-nextjs | spring_boot | serverless | strapi
-#### 📦 tool
+#### 🏗 development (frequency: desc)
+nextjs | strapi | spring_boot | serverless
+#### 📦 toolbox
 aws | docker | graphql
 
 ## I'm currently digital nomad
