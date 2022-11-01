@@ -8,7 +8,7 @@ aws | docker | graphql
 
 ## I'm currently digital nomad
 #### visited
-- united_states 🇺🇸, 2021 Oct ~ 2022 Jan
+- united_states 🇺🇸, 2021 Oct ~ 2022 Jan, 2022 Dec ~ 2023 Mar
   - austin, texas
   - san antonio, texas
   - brownsvile, texas
@@ -19,6 +19,10 @@ aws | docker | graphql
   - jinju
   - daegu
 - guam 🇬🇺, 2022 May
+- vietnam 🇻🇳, 2022 Nov
+  - ho chi minh
+- japan 🇯🇵, 2022 Nov
+  - tokyo
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
 
 
