@@ -19,7 +19,7 @@ So I'd like to emphasize this letter in the way of writing as digits, not a word
 "1000sh" can be pronounced like "Chun S. H." in Korean, "Thousand S. H."
 I used it in lots of platform services or games, etc...
 
-Somedays, I saw several times that *"1000sh"* is used by other users. Then I make it a little variance by adding "-ip" at the last of the word.
+I would like to use "1000sh", but someone already took the ID. Though I made a little difference by adding "-ip" at the last of the word.
 
 ## How can I explain why I use the word "-ship"?
 
