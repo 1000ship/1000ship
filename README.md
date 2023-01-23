@@ -14,6 +14,8 @@ aws | sentry
   - brownsvile, texas
   - st. bonifacius, minnesota
   - los angeles, california
+  - san diego, california
+  - yuma, arizona
 - korea 🇰🇷, 2022 Feb ~ Aug
   - seoul
   - jinju
