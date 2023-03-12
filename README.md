@@ -2,9 +2,9 @@
 #### 💬 language (frequency: desc)
 typescript | kotlin
 #### 🏗 development (frequency: desc)
-nextjs | strapi | spring_boot
-#### 📦 toolbox
-aws | sentry
+nextjs | nestjs | strapi | spring_boot
+#### 📦 etc
+aws
 
 ## I'm currently digital nomad
 #### visited
