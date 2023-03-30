@@ -9,7 +9,7 @@ aws
 ## I'm currently digital nomad
 #### visited
 - united_states 🇺🇸
-  - texas: autin, san antonio, brownsvile
+  - texas: austin, san antonio, brownsvile
   - minnesota: minneapolis, st. bonifacius
   - california: los angeles, san diego
   - arizona: yuma
