@@ -1,12 +1,19 @@
+# Working as a solopreneur in software tech
+
+<img src="https://github.com/1000ship/1000ship/assets/2270565/21728393-cc01-4204-8489-1d64eb7198a1" alt="Dante Company Logo" width="350" height="350">
+
+[🌏 Web](https://dante.company)
+
+
 ## Most using nowadays
 #### 💬 language (frequency: desc)
-typescript | kotlin
+typescript
 #### 🏗 development (frequency: desc)
-nextjs | nestjs | strapi | spring_boot
+nextjs | nestjs
 #### 📦 etc
 aws
 
-## I'm currently digital nomad
+## Currently digital nomading
 #### visited
 - united_states 🇺🇸
   - texas: austin, san antonio, brownsvile
