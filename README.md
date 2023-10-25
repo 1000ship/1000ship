@@ -16,6 +16,7 @@ aws
 ## Currently digital nomading
 #### visited
 - united_states 🇺🇸
+  - new york: new york city
   - texas: austin, san antonio, brownsvile
   - minnesota: minneapolis, st. bonifacius
   - california: los angeles, san diego
