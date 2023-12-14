@@ -1,7 +1,7 @@
 # 📣 I just launched a simple game! 🍾
 
 <a href="https://games.dante.company/pencil-picker">
-<img src="https://github.com/1000ship/1000ship/assets/2270565/adc0251f-bbd2-485d-8f9e-58132f957924" alt="Dante Company Logo" width="auto" height="300">
+<img src="https://github.com/1000ship/1000ship/assets/2270565/adc0251f-bbd2-485d-8f9e-58132f957924" alt="Pencil Picker game">
 </a>
 
 - [🤖 Download Android app](https://play.google.com/store/apps/details?id=company.dante.games.pencilpicker)
