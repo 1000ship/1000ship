@@ -4,9 +4,9 @@
 <img src="https://github.com/1000ship/1000ship/assets/2270565/adc0251f-bbd2-485d-8f9e-58132f957924" alt="Pencil Picker game">
 </a>
 
-- [🤖 Download Android app](https://play.google.com/store/apps/details?id=company.dante.games.pencilpicker)
+- [🤖 Download for Android](https://play.google.com/store/apps/details?id=company.dante.games.pencilpicker)
+- [🍎 Download for iOS](https://apps.apple.com/kr/app/pencil-picker/id6474534592)
 - [🌐 Play in web](https://games.dante.company/pencil-picker)
-- 🍎 iOS application is now developing! Please wait a moment :)
 
 # Working as a solopreneur in software tech
 
