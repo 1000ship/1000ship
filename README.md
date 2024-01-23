@@ -39,6 +39,10 @@ aws
   - da nang, hoi an, ho chi minh
 - japan 🇯🇵
   - tokyo
+- thailand 🇹🇭
+  - bangkok, ayutaya
+- malaysia 🇲🇾
+  - kl city
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
 
 
