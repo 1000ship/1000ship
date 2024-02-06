@@ -42,7 +42,7 @@ aws
 - thailand 🇹🇭
   - bangkok, ayutaya
 - malaysia 🇲🇾
-  - kl city
+  - kuala lumpur, putrajaya, malacca
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
 
 
