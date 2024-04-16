@@ -40,9 +40,12 @@ aws
 - japan 🇯🇵
   - tokyo
 - thailand 🇹🇭
-  - bangkok, ayutaya
+  - bangkok, ayutaya, chiang mai, pattaya
 - malaysia 🇲🇾
   - kuala lumpur, putrajaya, malacca
+- indonesia 🇮🇩
+  - bali
+- singapore 🇸🇬
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
 
 
