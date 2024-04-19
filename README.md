@@ -1,12 +1,10 @@
-# 📣 I just launched a simple game! 🍾
+# 📣 I just deployed new module, `incomplete-json-parser`
 
-<a href="https://games.dante.company/pencil-picker">
-<img src="https://github.com/1000ship/1000ship/assets/2270565/adc0251f-bbd2-485d-8f9e-58132f957924" alt="Pencil Picker game">
+<a href="https://github.com/1000ship/incomplete-json-parser">
+<img src="https://github.com/1000ship/1000ship/assets/2270565/08a37847-de10-4ff9-85b5-6611a03e972d" alt="incomplete-json-parser demo" width="400">
 </a>
 
-- [🤖 Download for Android](https://play.google.com/store/apps/details?id=company.dante.games.pencilpicker)
-- [🍎 Download for iOS](https://apps.apple.com/kr/app/pencil-picker/id6474534592)
-- [🌐 Play in web](https://games.dante.company/pencil-picker)
+Just show streaming JSON immediately. Don't make your users waiting.
 
 # Working as a solopreneur in software tech
 
