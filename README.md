@@ -30,13 +30,14 @@ aws
   - california: los angeles, san diego
   - arizona: yuma
   - illinois: chicago
+  - florida: orlando
 - korea 🇰🇷
   - seoul, jinju, daegu
 - guam 🇬🇺
 - vietnam 🇻🇳
   - da nang, hoi an, ho chi minh
 - japan 🇯🇵
-  - tokyo
+  - tokyo, osaka
 - thailand 🇹🇭
   - bangkok, ayutaya, chiang mai, pattaya
 - malaysia 🇲🇾
@@ -44,6 +45,8 @@ aws
 - indonesia 🇮🇩
   - bali
 - singapore 🇸🇬
+- canada 🇨🇦
+  - ontario: toronto
 - [nomadlist.com/@dantechun](https://nomadlist.com/@dantechun)
 
 
