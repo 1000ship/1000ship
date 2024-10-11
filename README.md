@@ -35,7 +35,7 @@ aws
   - seoul, jinju, daegu
 - guam 🇬🇺
 - vietnam 🇻🇳
-  - da nang, hoi an, ho chi minh
+  - da nang, hoi an, ho chi minh, hanoi
 - japan 🇯🇵
   - tokyo, osaka
 - thailand 🇹🇭
